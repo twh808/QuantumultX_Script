@@ -1,6 +1,6 @@
 {
  "name": "LiuYun task gallery",
- "description": "自用收集脚本",
+ "description": "LiuYuan自用收集脚本",
  "task": [  
 "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://gitee.com/ydj0602/hym/raw/img/DYHSB.PNG, enabled=true",
 "*/6 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
