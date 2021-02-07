@@ -1,0 +1,11 @@
+{
+ "name": "LiuYun task gallery",
+ "description": "自用收集脚本",
+ "task": [  
+"5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true",
+"10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+"10 * * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+"15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
+"15 50 3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true"
+ ]
+}
