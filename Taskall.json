@@ -421,6 +421,6 @@
 "3 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png,enabled=true",
 "4 0 * * * https://raw.githubusercontent.com/demo2099/jscool/master/Task/ctrip.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ctrip.png,enabled=true",
 "6 0 * * * https://raw.githubusercontent.comert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=true",
-"2 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js, tag=威锋网, img-url=https://raw.githubusercontent.com/Orz-3/task/master/feng.png,enabled=true"
+"2 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js, tag=威锋网, img-url=https://raw.githubusercontent.com/Orz-3/task/master/feng.png,enabled=true",
  ]
 }
