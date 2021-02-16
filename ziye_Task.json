@@ -1,6 +1,6 @@
 {
- "name": "LiuYun task gallery",
- "description": "LiuYuan自用收集脚本",
+ "name": "ziye task gallery",
+ "description": "收集脚本ziye版",
  "task": [  
 "*/6 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 "5 9,16,21 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js, tag=多看点视频ziye, img-url=https://gitee.com/ydj0602/hym/raw/img/DKD.PNG, enabled=true",
